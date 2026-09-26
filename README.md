@@ -1,5 +1,5 @@
-# GOT JOED: Automated Llamafile Orchestrator v1 Launcher
-Welcome to the GOT JOED repository. This project is designed to provide a "plug-and-play" AI experience, bringing the power of Llamafile to both Linux and Windows environments without the usual configuration headaches. Whether you are on a high-end machine or legacy hardware, this toolkit optimizes and launches your models automatically.
+# Automated Llamafile Orchestrator v1 Launcher
+This project is designed to provide a "plug-and-play" AI experience, bringing the power of Llamafile to both Linux and Windows environments without the usual configuration headaches. Whether you are on a high-end machine or legacy hardware, this toolkit optimizes and launches your models automatically.
 
 Current Project Status: v1
 This version focuses on automation of the execution environment. Please note that at this stage, this toolkit does not yet include automated MCP (Model Context Protocol) servers or automated AI tool chaining. Those advanced features are currently in development and are reserved for a future release.
